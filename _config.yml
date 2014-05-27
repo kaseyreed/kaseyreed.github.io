@@ -1,0 +1,23 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
+title: Charles Kasey Reed :)
+description: Just some random stuff to do with programming, myself, and life.
+author:
+  name: Charles Kasey Reed
+  email: charles.kasey.reed@gmail.com
+  github: kaseyreed
+  linkedin: kaseyreed
+  bio: The typical derp-age of a college graduate.
+  email_md5: 091290bd24f700befef8d46979d204b3
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
